@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="http://localhost/uhotelbooking/feeds/rss.xml" rel="self" type="application/rss+xml" />
+<title>DeCastleHotel</title>
+<link>http://localhost/uhotelbooking/feeds/rss.xml</link>
+<description>ScepterHolders</description>
+<language>en-us</language>
+<copyright>(c) copyright</copyright>
+<pubDate>Wed, 24 Oct 2018 02:15:01 UTC</pubDate>
+<image>
+<url>http://localhost/uhotelbooking/images/icons/logo.png</url>
+<title>DeCastleHotel</title>
+<link>http://localhost/uhotelbooking/feeds/rss.xml</link>
+</image>
+</channel>
+</rss>
